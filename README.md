@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gahl Peled
+- 👋 Hi, I’m Gahl
 - 👀 I’m a full-stack software engineer that enjoys contributing to open-source products.
 - 🌱 I’m currently learning about WebTransport, HTTP/3, and the art of motorcycle maintanence.
 - 💞️ I’m looking to collaborate on any projects that bring clear value to its user. I like solving problems.
