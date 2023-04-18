@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gahl.
 - 👀 I’m a full-stack software engineer with a background in healthtech that enjoys contributing to open-source products.
-- 🌱 I’m currently learning HTTP/3, GraphQL, DynamoDB, and the art of motorcycle maintanence.
+- 🌱 I’m currently learning about HTTP/3, DynamoDB, and the art of motorcycle maintanence.
 - 💞️ I’m looking to collaborate on projects that are patient/consumer-focused that enhance QOL. I like solving problems.
 - 📫 You can reach me at gahlpeled@gmail.com
 
